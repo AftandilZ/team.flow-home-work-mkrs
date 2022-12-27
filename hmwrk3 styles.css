@@ -40,7 +40,6 @@ p {
 .container {
   width: 100%;
   margin: 0;
-  padding: ;
 }
 /* BURGER---------------------------------------- */
 /* .burger {
@@ -375,7 +374,6 @@ p {
 .block5 {
   margin-top: 10%;
   width: 100%;
-  font-family: ;
 }
 .bl5__content {
   width: 70%;
@@ -488,7 +486,7 @@ p {
 }
 .bl6__line2 {
   width: 80%;
-  height: ;
+
   display: flex;
   justify-content: space-evenly;
   margin-bottom: 5%;
@@ -573,7 +571,6 @@ p {
 }
 ul {
   list-style: none;
-  margin-top: 0 %;
 }
 ul {
   font-size: 16px;
