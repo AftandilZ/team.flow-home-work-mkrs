@@ -170,7 +170,7 @@
     margin-bottom: 5%;
   }
   .bl6__avatars {
-    border-top: none;
+    border-top: transparent;
   }
   .bl6__avatar:hover {
     border-top: solid 2px gray;
@@ -343,6 +343,12 @@
   .block4__rs_cards {
     padding: 1%;
     border-radius: 0px 5px 5px 0px;
+    background-color: none;
+    border-left: none;
+  }
+  .block4__rs_cards:hover {
+    background-color: #f6f3fc;
+    border-left: solid 3px #794cff;
   }
   #bl4__rs_crd1 {
     background-color: #f6f3fc;
@@ -489,6 +495,6 @@
     width: 50%;
   }
   .bl6__line3 {
-    height: 20vh;
+    height: 30vh;
   }
 }
